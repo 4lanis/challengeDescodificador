@@ -1,1 +1,1 @@
-# challengeDescodificador
+O objetivo deste challenge é criar um decodificador de texto com Javascript de acordo com as regras no link: https://www.alura.com.br/challenges/challenge-one-logica/sprint01-construa-decodificador-texto-com-javascript.
